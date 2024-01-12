@@ -44,13 +44,14 @@ body{
 
 main{
   /* min-height: 100vh; */
-  margin-top: 1rem;
+ 
+  
   max-width: 550px;
   margin: 0 auto;
-  min-height: 100vh;
-  /* background-color: pink; */
+  min-height: 80vh;
   align-items: center;
   display: flex;
+  margin-top: 1rem;
   justify-content: center;
   flex-direction: column;
 
